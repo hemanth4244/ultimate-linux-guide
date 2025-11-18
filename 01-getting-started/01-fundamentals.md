@@ -1,4 +1,4 @@
-# Linux over Windows -- this is modifed by me
+# Linux over Windows
 
 ### Cost-Effectiveness
 - **Free and Open Source**: Linux does not require expensive licensing fees, making it a cost-effective choice for companies.
